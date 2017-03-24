@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+body {background-color:seashell;
+}
+p {
+	background-color: ivory;
+	text-align: center;
+}
+
+a:hover {
+    background-color: yellow;
+}
